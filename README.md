@@ -1,7 +1,7 @@
 # <h1 align="center"> Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Aniket Pandey </h1>
 
 <div align="center"> 
-  <img src="https://github.com/SiliconTable-AniketPandey/Python/blob/main/Logos/Channel_Art_MobileDevices.png" width="50%">
+  <img src="https://github.com/SiliconTable-AniketPandey/Python/blob/main/Logos/Channel_Art_MobileDevices.png" width="100%">
 </div>
 
 <h3 align="center">🚀 Aspiring Data Scientist from India 🇮🇳</h3>
@@ -20,17 +20,27 @@
 
 <br>
 
-- 🔭 I’m currently working on **Introduction to Python**
+<p>
+    <img align="right" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding_Gif" width="400" />
+</p>
+## 💫 About Me <br>
+
+- 🔭 I’m currently working on **Introduction to Pyton**
+
 - 🌱 I’m currently learning **Data Science**
-- 👯 I’m looking to collaborate on **Matplotlib, Pandas, NumPy, TensorFlow**
+
+- 👯 I’m looking to collaborate on **Matplotlib, Pandas, NumPy, Tensorflow**
+
+- 👨‍💻 Explore all my projects on [GitHub](https://github.com/SiliconTable-AniketPandey?tab=repositories)
+
+
 - 💬 Ask me about **Statistics, Python**
-- 📫 How to reach me: **reach.silicontable@gmail.com**
-- ⚡ Fun fact: **I'm always hungry**
 
-<br>
-<br>
+- 📫 How to reach me **reach.silicontable@gmail.com**
 
-### Socials
+- ⚡ Fun fact **I am always hungry**
+
+## 📱 Socials
                   
 <p align="center"> 
   <a href="https://www.github.com/RealUnrealCoder" target="_blank" rel="noreferrer"> 
@@ -46,7 +56,7 @@
 
 <br>
 
-### Skills 
+## ⚔️ Skills 
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
@@ -69,7 +79,7 @@
 
 <br>
 
-<b>My GitHub Stats</b>
+## 📊 <b>My GitHub Stats</b>
 
 <!-- Top Languages Card -->
 <p align="center">
@@ -89,9 +99,8 @@
 <br>
 <br>
 
-## <span style="color:#c9d1d9;">Top Contributed Repositories</span>
 
-<b>Top Repositories</b>
+## 📒 <b>Top Repositories</b>
 
 <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/SiliconTable-AniketPandey/Python" style="text-decoration: none;">
