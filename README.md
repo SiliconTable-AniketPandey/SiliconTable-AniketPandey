@@ -99,6 +99,12 @@
 <br>
 <br>
 
+<!-- GitHub Stats Card -->
+![GitHub Contributions](https://github.com/SiliconTable-AniketPandey/SiliconTable-AniketPandey/graphs/contributors)
+
+
+
+
 
 ## 📒 <b>Top Repositories</b>
 
