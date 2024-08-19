@@ -27,7 +27,7 @@
 ## 💫 About Me 
 <br>
 
-- 🔭 I’m currently working on **Introduction to Python**
+- 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Data Science**
 
