@@ -43,9 +43,7 @@
 - ⚡ Fun fact **I am always hungry**
 
 ## 🏎️ Portfolio Website
-  <a href="https://silicontable-aniketpandey.github.io/Portfolio-Website/">
-  <h2> Click here </h2>
-  </a>
+  <a href="https://silicontable-aniketpandey.github.io/Portfolio-Website/" target="_blank" rel="noreferrer">Click here</a>
 
 ## 📱 Socials
                   
