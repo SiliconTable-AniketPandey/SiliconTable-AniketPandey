@@ -34,11 +34,8 @@
   </a>
 </div>
 
----
-
-<div align="right">
-  <img width="50% src="https://user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif" alt="Coding animation" width="420" />
-</div>
+<div>
+    <img align="right" width="35%" src="https://user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif" alt="Coding animation" />
 
 ## 💫 About Me
 
@@ -51,90 +48,10 @@
 - 🌐 Portfolio: **[silicontable-aniketpandey.github.io/Portfolio-Website](https://silicontable-aniketpandey.github.io/Portfolio-Website/)**
 - 👨‍💻 Explore all my projects on [GitHub](https://github.com/SiliconTable-AniketPandey?tab=repositories)
 
----
-
-## ⚔️ Tech Stack & Skills
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,mysql,nodejs,flask,aws,gcp,linux,pytorch,tensorflow,vscode&perline=8" alt="Skills" />
-  </a>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Statistics-0D1117?style=for-the-badge&logo=chartdotjs&logoColor=0E75B6" alt="Statistics" />
-  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=0E75B6" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-</div>
-
----
-
-
-
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiliconTable-AniketPandey&bg_color=0D1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true&custom_title=Aniket%20Pandey%27s%20Contribution%20Graph" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiliconTable-AniketPandey&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiliconTable-AniketPandey&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="Top Languages" width="49%" />
-</div>
-
 <br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SiliconTable-AniketPandey&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak Stats" />
-</div>
-
----
-
-## 🧩 Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiliconTable-AniketPandey&theme=github_dark" alt="Profile Details" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiliconTable-AniketPandey&theme=github_dark" alt="Repos Per Language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiliconTable-AniketPandey&theme=github_dark" alt="Most Commit Language" width="49%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiliconTable-AniketPandey&theme=github_dark" alt="Summary Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiliconTable-AniketPandey&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%" />
-</div>
-
----
-
-## 📒 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/SiliconTable-AniketPandey/Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiliconTable-AniketPandey&repo=Python&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="Python Repository" width="49%" />
-  </a>
-  <a href="https://github.com/SiliconTable-AniketPandey/C-Programs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiliconTable-AniketPandey&repo=C-Programs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="C-Programs Repository" width="49%" />
-  </a>
-</div>
-
----
-
 ## 🔥 Current Focus
 
 <div align="center">
@@ -156,28 +73,90 @@
   </table>
 </div>
 
----
+<br>
+<br>
+
+
+## ⚔️ Tech Stack & Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,bash,anaconda,c,cpp,vue,java,html,css,flask,js,bootstrap,nodejs,aws,gcp,docker,git" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+
+<br>
+<br>
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiliconTable-AniketPandey&bg_color=0D1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true&custom_title=Aniket%20Pandey%27s%20Contribution%20Graph" alt="Activity Graph" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SiliconTable-AniketPandey&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiliconTable-AniketPandey&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="Top Languages" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SiliconTable-AniketPandey&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak Stats" />
+</div>
+
+<br>
+<br>
+
+## 🧩 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiliconTable-AniketPandey&theme=github_dark" alt="Profile Details" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiliconTable-AniketPandey&theme=github_dark" alt="Repos Per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiliconTable-AniketPandey&theme=github_dark" alt="Most Commit Language" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiliconTable-AniketPandey&theme=github_dark" alt="Summary Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiliconTable-AniketPandey&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%" />
+</div>
+
+
+<br>
+<br>
+
 
 ## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://silicontable-aniketpandey.github.io/Portfolio-Website/">
-    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
   </a>
   <a href="https://github.com/SiliconTable-AniketPandey">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/aniket-pandey-73b567299">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="http://www.instagram.com/codec_aniket">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="mailto:reach.silicontable@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </div>
 
+<br>
 <br>
 
 <div align="center">
