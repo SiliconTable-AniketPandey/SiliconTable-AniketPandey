@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/84db2e70-9985-4629-b30b-f9c285f6a01d"/>
+  <img width="1310" height="582" src="https://github.com/user-attachments/assets/5c25c33e-fd7e-4d30-9d4c-21a133dd3846" />
 
   <h1>
     Hi there!
@@ -36,7 +36,8 @@
 
 ---
 
-<img align="right" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding Gif" width="350" />
+<img aligh = "right" width="706" height="554" alt="20260612-0155-03 5855113" src="https://github.com/user-attachments/assets/c622248b-ac92-4726-8a36-f2763c097d9a" />
+
 
 ## 💫 About Me
 
