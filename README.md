@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="<img width="1888" height="500" alt="20260612-0048-05 3378487" src="https://github.com/user-attachments/assets/5fec98d7-a0e7-42b0-af44-d1103e5d38a7"/>
+  <img src="https://github.com/user-attachments/assets/5fec98d7-a0e7-42b0-af44-d1103e5d38a7"/>
   
   <h1>Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Aniket Pandey</h1>
 
