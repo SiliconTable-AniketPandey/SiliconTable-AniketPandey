@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/5c25c33e-fd7e-4d30-9d4c-21a133dd3846" alt="Banner Image" />
+  <img src="https://github.com/user-attachments/assets/5c25c33e-fd7e-4d30-9d4c-21a133dd3846" alt="Aniket Pandey Banner" width="100%" />
 
   <h1>
     Hi there!
@@ -17,28 +17,28 @@
 
   <br><br>
 
-  <a href="https://silicontable-aniketpandey.github.io/Portfolio-Website/" target="_blank">
+  <a href="https://silicontable-aniketpandey.github.io/Portfolio-Website/">
     <img src="https://img.shields.io/badge/Portfolio-Website-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/SiliconTable-AniketPandey" target="_blank">
+  <a href="https://github.com/SiliconTable-AniketPandey">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/aniket-pandey-73b567299" target="_blank">
+  <a href="https://www.linkedin.com/in/aniket-pandey-73b567299">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="http://www.instagram.com/codec_aniket" target="_blank">
+  <a href="http://www.instagram.com/codec_aniket">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:reach.silicontable@gmail.com" target="_blank">
+  <a href="mailto:reach.silicontable@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<br>
+---
 
-<div align="right"> <!-- Flip this 180 degree align right 50% height and width -->
-  <img src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODEyMjk4NDgsIm5iZiI6MTc4MTIyOTU0OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjEyVDAxNTkwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkZTJjNTBlY2RkNTcyOWI0YzNhMDFjNTNjYzFkNTcxMGRiYjJiOGFmYWYwZjM5MzA1ZGQwNjM3NDJmYWIyODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.JmBzmrauoNWIOFpHd-Nq8JdNsjJf151LgZu6-fp1M9s" width="100%" alt="Divider GIF" />
-</div> 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif" alt="Coding animation" width="420" />
+</div>
 
 ## 💫 About Me
 
@@ -50,8 +50,6 @@
 - ⚡ Fun fact: **I am always hungry**
 - 🌐 Portfolio: **[silicontable-aniketpandey.github.io/Portfolio-Website](https://silicontable-aniketpandey.github.io/Portfolio-Website/)**
 - 👨‍💻 Explore all my projects on [GitHub](https://github.com/SiliconTable-AniketPandey?tab=repositories)
-
-<br clear="right">
 
 ---
 
@@ -81,7 +79,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SiliconTable-AniketPandey&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SiliconTable-AniketPandey&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -171,31 +169,27 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://silicontable-aniketpandey.github.io/Portfolio-Website/" target="_blank">
+  <a href="https://silicontable-aniketpandey.github.io/Portfolio-Website/">
     <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/SiliconTable-AniketPandey" target="_blank">
+  <a href="https://github.com/SiliconTable-AniketPandey">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/aniket-pandey-73b567299" target="_blank">
+  <a href="https://www.linkedin.com/in/aniket-pandey-73b567299">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="http://www.instagram.com/codec_aniket" target="_blank">
+  <a href="http://www.instagram.com/codec_aniket">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:reach.silicontable@gmail.com" target="_blank">
+  <a href="mailto:reach.silicontable@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br>
 
-<div align="center"> 
-  <img height="50%" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODEyMjk4NDgsIm5iZiI6MTc4MTIyOTU0OCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjEyVDAxNTkwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkOGU1MzczNmJhNjY1YmE3NTJjODc5YzI3Y2VmMTIyZjBmZWJlMGY1NDViZDUyYjQxOGYwYmE4YTBiZWFlYjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.IQQ1GdMZpMCsGRXlYNfKOYY5OSXFAzTad1bJGaw0kWs" width="100%" alt="Divider GIF Bottom" />
-</div>
-
-<br>
-
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" alt="Footer animation" width="500" />
+  <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+data-powered." alt="Footer Typing SVG" />
 </div>
