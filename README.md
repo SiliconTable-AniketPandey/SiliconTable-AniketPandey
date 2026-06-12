@@ -36,8 +36,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif" alt="Coding animation" width="420" />
+<div align="right">
+  <img width="50% src="https://user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif" alt="Coding animation" width="420" />
 </div>
 
 ## 💫 About Me
