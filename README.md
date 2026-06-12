@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1310" height="582" src="https://github.com/user-attachments/assets/5c25c33e-fd7e-4d30-9d4c-21a133dd3846" />
+  <img width="100%" src="https://github.com/user-attachments/assets/5c25c33e-fd7e-4d30-9d4c-21a133dd3846" alt="Banner Image" />
 
   <h1>
     Hi there!
@@ -34,10 +34,11 @@
   </a>
 </div>
 
----
+<br>
 
-<img aligh = "right" width="706" height="554" alt="20260612-0155-03 5855113" src="https://github.com/user-attachments/assets/c622248b-ac92-4726-8a36-f2763c097d9a" />
-
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODEyMjk4NDgsIm5iZiI6MTc4MTIyOTU0OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjEyVDAxNTkwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkZTJjNTBlY2RkNTcyOWI0YzNhMDFjNTNjYzFkNTcxMGRiYjJiOGFmYWYwZjM5MzA1ZGQwNjM3NDJmYWIyODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.JmBzmrauoNWIOFpHd-Nq8JdNsjJf151LgZu6-fp1M9s" width="100%" alt="Divider GIF" />
+</div>
 
 ## 💫 About Me
 
@@ -80,7 +81,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SiliconTable-AniketPandey&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SiliconTable-AniketPandey&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -185,6 +186,12 @@
   <a href="mailto:reach.silicontable@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODEyMjk4NDgsIm5iZiI6MTc4MTIyOTU0OCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjEyVDAxNTkwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkOGU1MzczNmJhNjY1YmE3NTJjODc5YzI3Y2VmMTIyZjBmZWJlMGY1NDViZDUyYjQxOGYwYmE4YTBiZWFlYjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.IQQ1GdMZpMCsGRXlYNfKOYY5OSXFAzTad1bJGaw0kWs" width="100%" alt="Divider GIF Bottom" />
 </div>
 
 <br>
