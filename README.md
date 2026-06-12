@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SiliconTable-AniketPandey/SiliconTable-AniketPandey/blob/main/hello.pdf.gif"/>
+  <img src="https://github.com/user-attachments/assets/fd69c3ee-854d-4072-8f39-7b4c9b60df5a"/>
   
   <h1>Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Aniket Pandey</h1>
 
