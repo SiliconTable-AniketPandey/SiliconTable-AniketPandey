@@ -13,7 +13,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=silicontable-aniketpandey&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/SiliconTable-AniketPandey?label=Followers&style=for-the-badge&color=0e75b6&labelColor=111827" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/SiliconTable-AniketPandey?label=Stars&style=for-the-badge&color=0e75b6&labelColor=111827" alt="GitHub Stars" />
 
   <br><br>
 
