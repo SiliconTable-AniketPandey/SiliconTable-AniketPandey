@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SiliconTable-AniketPandey/SiliconTable-AniketPandey/blob/main/U5ba4D8TD4.svg" alt="Aniket Pandey Banner" width="100%" />
+  <img src="https://github.com/SiliconTable-AniketPandey/SiliconTable-AniketPandey/blob/main/U5ba4D8TD4.svg" alt="Aniket Pandey Banner" width="80%" />
 
   <h1>
     Hi there!
