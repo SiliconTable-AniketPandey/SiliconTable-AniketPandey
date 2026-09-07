@@ -40,8 +40,8 @@
 
 - 🔭 I’m currently working on **Data Science**
 - 🌱 I’m currently learning **Data Science, Machine Learning, and Deep Learning**
-- 👯 I’m looking to collaborate on **Matplotlib, Pandas, NumPy, TensorFlow**
-- 💬 Ask me about **Statistics, Python, data analysis, and visualization**
+- 👯 I’m looking to collaborate on **Matplotlib, Pandas, NumPy, PyTorch**
+- 💬 Ask me about **Machine Learning**
 - 📫 How to reach me: **reach.silicontable@gmail.com**
 - ⚡ Fun fact: **I am always hungry**
 - 🌐 Portfolio: **[silicontable-aniketpandey.github.io/Portfolio-Website](https://silicontable-aniketpandey.github.io/Portfolio-Website/)**
