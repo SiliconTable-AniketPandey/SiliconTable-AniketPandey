@@ -125,23 +125,7 @@
 
 ## 🤝 Connect With Me
 
-<div align="center">
-  <a href="https://silicontable-aniketpandey.github.io/Portfolio-Website/">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
-  </a>
-  <a href="https://github.com/SiliconTable-AniketPandey">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/aniket-pandey-73b567299">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="http://www.instagram.com/codec_aniket">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="mailto:reach.silicontable@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-</div>
+
 
 <br>
 <br>
